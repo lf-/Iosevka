@@ -128,6 +128,10 @@ tag     = 'CLIK'
 buildup = ['calt-center-ops', 'calt-arrow', 'calt-html-comment', 'calt-trig', 'calt-llgg', 'calt-llggeq', 'calt-eqeqeq', 'calt-eqeq', 'calt-exeqeq', 'calt-exeq', 'calt-ineq', 'calt-plusplus', 'calt-kern-dotty']
 desc    = 'C-Like'
 
+[composite.ligset-verilog]
+tag     = 'VLOG'
+buildup = ['calt-center-ops', 'calt-eqeq', 'calt-exeq-alt-1', 'calt-brst', 'calt-kern-dotty', 'calt-llgg']
+
 [composite.ligset-javascript]
 tag     = 'JSPT'
 buildup = ['calt-center-ops', 'calt-arrow', 'calt-html-comment', 'calt-trig', 'calt-llgg', 'calt-llggeq', 'calt-eqeqeq', 'calt-eqeq', 'calt-exeqeq', 'calt-exeq', 'calt-ineq', 'calt-plusplus', 'calt-kern-dotty']
